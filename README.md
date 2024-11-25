@@ -40,6 +40,8 @@ Um simulador de um game utilizando python.
 
 ### Versão 1.0 - Protótipo
 
+![Tela da versão 1.0](img/printscreen-v1.png "Tela da versão 1.0")
+
 ```python
 import random
 
@@ -172,6 +174,8 @@ combate(heroi)
 ```
 
 ### Versão 2.0 - Com Biblioteca Curses
+
+![Tela da versão 2.0](img/printscreen-v2.png "Tela da versão 2.0")
 
 ```python
 import curses
